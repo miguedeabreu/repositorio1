@@ -1,2 +1,4 @@
 # repositorio1
 Reto 1 del día 6, en codenotch. GIT
+
+### He creado las dos ramas con el comando git branch + nombre de la rama, para cambiarme de rama use el comando git checkout + nombre de la rama. En todo momento hice git branch para saber en que rama estaba ubicado y estar seguro que era esa rama en la que queria trabajar. En la rama1 he eliminado la función suma. En la rama2 le agregue un parámetro nuevo a la función suma, siendo actualmente de tres parámetros, en la rama2 he modificado el readme. En cada rama, incluido el main, hice el git add, git commit y git push, cada uno por separado.

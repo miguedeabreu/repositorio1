@@ -1,6 +1,6 @@
-function suma (x,y)
+function suma (x,y,z)
 {
-    let resultado = x+y;
+    let resultado = x+y+z;
     return resultado;
 }
 
